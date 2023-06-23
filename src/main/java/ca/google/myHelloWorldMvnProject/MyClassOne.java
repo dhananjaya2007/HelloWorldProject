@@ -5,7 +5,7 @@ public class MyClassOne {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("1 + 25 = "+(1+25));
+		System.out.println("1 + 25 = "+(25+25));
 
 	}
 
